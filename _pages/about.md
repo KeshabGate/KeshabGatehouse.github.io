@@ -1,28 +1,24 @@
 ---
 
-title: "About David Florian"
+title: "About Keshab Gatehouse"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Keshab's interest in contributing to climate change mitigation guides his academic focus. His education in both Chemical Engineering and Climate Studies provides him a holistic perspective of the issue and a unique skill set to apply in the workplace.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+* Vanderbilt University (expected graduation May 2025)
+  * BS Chemical Engineering
+  * BA Climate Studies
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Keshab's involvement with robotics and engineering has allowed him to build several technical skills throughout the years, including:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Programming (Python, Java, and MATLAB)
+* Data processing and visualization (R)
+* CAD (Autodesk Fusion 360)
 
 ## Press 
 
