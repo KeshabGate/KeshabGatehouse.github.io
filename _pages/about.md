@@ -20,8 +20,12 @@ Keshab's involvement with robotics and engineering has allowed him to build seve
 * Data processing and visualization (R)
 * CAD (Autodesk Fusion 360)
 
-## Press 
+## Business Skills
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Keshab's experience in nonprofit leadership has also given him the opportunity to grow his business skills, including:
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+* Public speaking and making presentations to stakeholders
+* Fundraising and budgeting over $100,000
+* Building relationships with administrators and public officials
+
+<img src="/assets/img/IMG_6401.jpg" alt="Keshab Gatehouse" style="width:200px;"/>
