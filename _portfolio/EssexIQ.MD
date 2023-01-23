@@ -3,6 +3,7 @@ title: "Essex IQ Summer Program"
 excerpt: "A free, 3-week summer program designed to provide STEM education to Newark, NJ middle school students."
 header:
   image: /assets/img/essexiqgroup.png
+  teaser: /assets/img/EssexIQLogo-modified.png
 gallery:
   - image_path: assets/img/IMG_1880.jpg
   - image_path: assets/img/IMG_1918.jpg
