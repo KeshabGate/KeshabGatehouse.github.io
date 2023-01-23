@@ -8,12 +8,11 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Keshab Gatehouse is an impact-driven Vanderbilt Chemical Engineering & Climate Studies double major with a passion for sustainability. His specific interest is in renewable energy and the intersection of technical knowledge and business skills in that field."
+excerpt: "Keshab Gatehouse is an impact-driven Vanderbilt Chemical Engineering & Climate Studies double major with a passion for sustainability. His specific interest is the intersection of technical knowledge and business skills in renewable energy."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+  - image_path: assets/img/pnbdacbasic
+    title: "Adaptive Polymers"
+    excerpt: "Prerequisite ring-opening reaction."
   - image_path: assets/img/essexiqgroup.png
     title: "Essex IQ Summer Program"
     excerpt: "Free STEM education for Newark, NJ students."
