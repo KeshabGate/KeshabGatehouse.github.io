@@ -12,7 +12,7 @@ excerpt: "Keshab Gatehouse is an impact-driven Vanderbilt Chemical Engineering &
 feature_row:
   - image_path: assets/img/pnbdacbasic.png
     title: "Adaptive Polymers"
-    excerpt: "Prerequisite ring-opening reaction."
+    excerpt: "Building polymers that adapt to their environments."
   - image_path: assets/img/essexiqgroup.png
     title: "Essex IQ Summer Program"
     excerpt: "Free STEM education for Newark, NJ students."
