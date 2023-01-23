@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: /assets/img/solarenergy.jpeg
   actions:
     - label: "My Projects"
       url: "/portfolio/"
@@ -16,9 +16,6 @@ feature_row:
   - image_path: assets/img/essexiqgroup.png
     title: "Essex IQ Summer Program"
     excerpt: "Free STEM education for Newark, NJ students."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
 ---
 
 {% include feature_row %}
