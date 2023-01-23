@@ -105,7 +105,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/keshabgate"
     - label: "Essex IQ"
-      icon: "assets/img/EssexIQLogo-modified.png"
+      icon: "fa-solid fa-globe"
       url: "https://www.essexiq.com"
 
 
@@ -116,7 +116,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/keshabgate"
     - label: "Essex IQ"
-      icon: "assets/img/EssexIQLogo-modified.png"
+      icon: "fa-solid fa-globe"
       url: "https://www.essexiq.com"
 
 
