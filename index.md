@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Keshab Gatehouse"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,16 +8,15 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Keshab Gatehouse is an impact-driven Vanderbilt Chemical Engineering & Climate Studies double major with a passion for sustainability. His specific interest is in renewable energy and the intersection of technical knowledge and business skills in that field."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
     title: "Custom CNC Milling Machine"
     excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+  - image_path: assets/img/essexiqgroup.png
+    title: "Essex IQ Summer Program"
+    excerpt: "Free STEM education for Newark, NJ students."
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
