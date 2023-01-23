@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "Keshab Gatehouse is an impact-driven Vanderbilt Chemical Engineering & Climate Studies double major with a passion for sustainability. His specific interest is the intersection of technical knowledge and business skills in renewable energy."
 feature_row:
-  - image_path: assets/img/pnbdacbasic
+  - image_path: assets/img/pnbdacbasic.png
     title: "Adaptive Polymers"
     excerpt: "Prerequisite ring-opening reaction."
   - image_path: assets/img/essexiqgroup.png
